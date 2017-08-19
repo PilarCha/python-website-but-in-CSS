@@ -1,0 +1,165 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+.wrapper{
+  width:1590px;
+  background-color: #245176;
+}
+.top img{
+  display:inline-block;
+}
+.nav{
+  background-color: #467dac;
+  text-align: center;
+  width:1400px;
+  margin-left: 85px;
+  color:white;
+  border-radius: 12px;
+}
+.nav h2{
+  display: inline-block;
+  margin: 15px 30px;
+}
+
+.main{
+  background:#245176;
+  color:white;
+}
+
+.box{
+  display:inline-block;
+  vertical-align:top;
+  text-align: center;
+  color: white;
+  margin-left:650px;
+}
+.box a{
+  color: yellow;
+}
+.search{
+  background-color:#444444;
+  height:38px;
+  width:auto;
+  padding:22px;
+  border-radius: 13px;
+}
+.search input{
+  height:40px;
+  width:176px;
+}
+.search button{
+  height:37px;
+  width:44px;
+  background-color: #245176;
+  color:white;
+}
+.container{
+  overflow: hidden;
+  width: 300px;
+  vertical-align: middle;
+  display: inline-block;
+}
+.main ul{
+  display:inline-block;
+  list-style-type: none;
+  margin-top: 36px;
+}
+ul{
+  display: inline-block;
+}
+.paragraphs{
+  /*width:1000px;*/
+  display: inline-block;
+  text-align: center;
+  padding: 20px;
+  width:900px;
+}
+.paragraphs li{
+  margin:20px;
+  font-size: 20px;
+  color:yellow;
+}
+#zen{
+  color:white;
+}
+.left_ul a{
+  color:white;
+}
+.left_ul li{
+  margin:10px;
+  font-size: 20px;
+}
+.left::before{
+  content: "\00BB \0020";
+  color:yellow;
+}
+.left_ul{
+  width:300px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 22px;
+  margin-left: 157px;
+}
+.white{
+  background-color: #ffffff;
+  height:376px;
+  padding:16px;
+  width: 1558px;
+}
+.white li,b{
+  color: #92bade;
+  text-align: center;
+
+}
+.white ul{
+  color:black;
+}
+.white p{
+  margin:5px;
+  padding:22px;
+}
+.white li{
+  margin:20px;
+}
+.izqierda{
+  display: inline-block;
+  border-top: 3px solid #73a7d5;
+  width:650px;
+  height:387px;
+  text-align: center;
+  vertical-align: top;
+  padding:10px;
+  margin-left: 69px;
+}
+.izqierda ul{
+  list-style: square;
+}
+.derecha ul{
+  list-style: square;
+}
+.derecha{
+  display:inline-block;
+  border-top: 3px solid #73a7d5;
+  width:650px;
+  height:387px;
+  text-align: center;
+  padding:10px;
+  margin-left: 50px;
+}
+.footer{
+  background: #275780;
+  text-align:  center;
+}
+.footer h3{
+  display:inline-block;
+  margin-left: 25px;
+  color: #578bb9;
+  margin-top: 87px;
+  margin-bottom: 15px;
+}
+.footer h5{
+  color:#578bb9;
+}
